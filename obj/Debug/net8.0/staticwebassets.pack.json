@@ -13,6 +13,42 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\0953f11b-6fc8-4629-bf2b-7aee68a433d0_94da38da-87fc-4920-8075-ba07a0534149_car.jpg",
+      "PackagePath": "staticwebassets\\images\\0953f11b-6fc8-4629-bf2b-7aee68a433d0_94da38da-87fc-4920-8075-ba07a0534149_car.jpg"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\17184d80-d48a-4e51-aa01-f5a8ff42dd14_pic.jpeg",
+      "PackagePath": "staticwebassets\\images\\17184d80-d48a-4e51-aa01-f5a8ff42dd14_pic.jpeg"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\85db80bf-b33d-4b21-beab-0718e696e488_car.jpg",
+      "PackagePath": "staticwebassets\\images\\85db80bf-b33d-4b21-beab-0718e696e488_car.jpg"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\94da38da-87fc-4920-8075-ba07a0534149_car.jpg",
+      "PackagePath": "staticwebassets\\images\\94da38da-87fc-4920-8075-ba07a0534149_car.jpg"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\97ed04c1-c525-43d7-9f85-35cdac9dfcee_A1.webp",
+      "PackagePath": "staticwebassets\\images\\97ed04c1-c525-43d7-9f85-35cdac9dfcee_A1.webp"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\A1.webp",
+      "PackagePath": "staticwebassets\\images\\A1.webp"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\car.jpg",
+      "PackagePath": "staticwebassets\\images\\car.jpg"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\homepage.png",
+      "PackagePath": "staticwebassets\\images\\homepage.png"
+    },
+    {
+      "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\images\\pic.jpeg",
+      "PackagePath": "staticwebassets\\images\\pic.jpeg"
+    },
+    {
       "Id": "D:\\Employee Managment\\EmployeeManagement\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

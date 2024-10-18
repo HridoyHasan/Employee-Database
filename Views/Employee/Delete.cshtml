@@ -1,0 +1,15 @@
+@model EmployeeManagement.Models.Employee
+
+<h2>Delete Employee</h2>
+
+<p>Are you sure you want to delete this employee?</p>
+
+<div>
+    <h4>@Model.Name</h4>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Employee")" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,39 @@
+@model EmployeeManagement.Models.Employee
+
+<h2>Edit Employee</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input asp-for="Id" type="hidden" />
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>NID</label>
+        <input asp-for="NID" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Age</label>
+        <input asp-for="Age" class="form-control" type="number" />
+    </div>
+    <div class="form-group">
+        <label>Organization</label>
+        <input asp-for="Organization" class="form-control" />
+    </div>
+     <div class="form-group">
+        <label>Expertise</label>
+        <input asp-for="Expertise" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Criminal Record</label>
+        <input asp-for="CriminalRecord" class="form-control" />
+    </div>
+        <div class="form-group">
+        <label>Profile Picture</label>
+        <input type="file" name="ProfilePicture" class="form-control" />
+    </div>
+    <br>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</form>
