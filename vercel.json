@@ -1,6 +1,6 @@
 {
     "builds": [
-      { "src": "api/**/*.cs", "use": "@vercel/dotnet" }
+      { "src": "api/**/*.cs", "use": "@vercel/dotnet@8.0.0" }
     ],
     "routes": [
       { "src": "/", "dest": "index.html" }
