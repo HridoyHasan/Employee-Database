@@ -1,9 +1,0 @@
-{
-    "builds": [
-      { "src": "api/**/*.cs", "use": "@vercel/dotnet@8.0.0" }
-    ],
-    "routes": [
-      { "src": "/", "dest": "/" }
-    ]
-  }
-  
