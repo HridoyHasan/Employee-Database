@@ -1,3 +1,12 @@
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
+D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
 D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
 D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\appsettings.json
 D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.staticwebassets.runtime.json
@@ -84,15 +93,6 @@ D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnaly
 D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
-D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
 D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
 D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
 D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
@@ -109,3 +109,6 @@ D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagem
 D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
 D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
 D:\Employee Managment\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Employee Managment\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
