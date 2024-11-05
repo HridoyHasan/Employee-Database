@@ -28,13 +28,14 @@ Before you begin, ensure you have the following installed:
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/employee-management-system.git
 cd employee-management-system
 
-### 2. Configure the Database
+
+ 2. Configure the Database
 Create a PostgreSQL database named EmployeeDB (or any name you prefer).
 Update the connection string in appsettings.json:
 {
@@ -43,11 +44,11 @@ Update the connection string in appsettings.json:
   }
 }
 
-### 3. Apply Migrations
+3. Apply Migrations
 Run the following commands to apply migrations and set up the database:
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 
-### 4. Run the Application
+4. Run the Application
 Start the application by running:
 dotnet run
